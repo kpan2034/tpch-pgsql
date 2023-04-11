@@ -30,7 +30,7 @@ TEMPLATE_QUERY_DIR = "perf_query_template"
 GENERATED_QUERY_DIR = "perf_query_gen"
 PREP_QUERY_DIR = "prep_query"
 RESULTS_DIR = "results"
-TABLES = ['LINEITEM', 'PARTSUPP', 'ORDERS', 'CUSTOMER', 'SUPPLIER', 'NATION', 'REGION', 'PART']
+TABLES = ['lineitem', 'partsupp', 'orders', 'customer', 'supplier', 'nation', 'region', 'part']
 # End Constants
 
 
